@@ -11,3 +11,9 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+audiR82018:
+  title: Audi R8 2018
+  description: Luxury 2 door sports car
+  price: 250000.00
+  image_url: audiR82018.jpg
